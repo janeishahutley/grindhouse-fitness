@@ -1,0 +1,63 @@
+{
+    "blogPosts": [
+      {
+        "id": "abc23",
+        "title": "Understanding React Hooks",
+        "author": "Jane Smith",
+        "publishedDate": "2023-05-01",
+        "tags": ["React", "Programming", "JavaScript", "Web Development"],
+        "content": "In this post, we will delve deep into React Hooks...",
+        "comments": [
+          {
+            "name": "John Doe",
+            "comment": "Great article, thanks for the information!",
+            "date": "2023-05-02"
+          },
+          {
+            "name": "Alice",
+            "comment": "Could you please explain the part about useEffect in more detail?",
+            "date": "2023-05-03"
+          }
+        ]
+      },
+      {
+        "id": "abc2",
+        "title": "Mastering Redux",
+        "author": "John Doe",
+        "publishedDate": "2023-04-15",
+        "tags": ["Redux", "State Management", "JavaScript", "Web Development"],
+        "content": "State management is a crucial part of any non-trivial web application...",
+        "comments": [
+          {
+            "name": "Jane Smith",
+            "comment": "This is a helpful guide, thank you!",
+            "date": "2023-04-16"
+          }
+        ]
+      },
+      {
+        "id": "def3",
+        "title": "Exploring the Compound Component Pattern",
+        "author": "Alice",
+        "publishedDate": "2023-03-20",
+        "tags": ["React", "Web Development", "Design Patterns"],
+        "content": "One of the powerful features of React is its component-based nature...",
+        "comments": []
+      }
+    ]
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

@@ -1,0 +1,9 @@
+{
+    "window.zoomLevel": 4,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "prettier.requireConfig": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.prettier": true
+       },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+}
